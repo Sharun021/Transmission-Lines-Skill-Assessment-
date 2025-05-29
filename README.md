@@ -3,6 +3,8 @@
 
 ## 1. Introduction
 Transmission lines, such as coaxial cables, twisted pair wires, and microstrip lines, are critical for reliable signal propagation in high-frequency systems. In the context of smart home automation, they ensure robust communication between devices like smart speakers, security cameras, and IoT sensors. This report explores how transmission line principles—impedance matching, signal integrity, and low-loss propagation—enable seamless connectivity in smart homes, with a focus on their application in a real-world scenario: the integration of a smart home ecosystem in a residential setup in Bengaluru, India, in 2025.
+![image](https://github.com/user-attachments/assets/336d0419-4001-4d5d-890d-95581d41c336)
+
 
 ## 2. Background: Smart Home Ecosystem in Bengaluru (2025)
 
@@ -99,6 +101,8 @@ The smart home ecosystem was designed to integrate multiple devices:
 - *Power Line Communication (PLC):* In areas with weak Wi-Fi, PLC adapters used existing electrical wiring as transmission lines to extend network coverage, achieving data rates up to 1 Gbps.
 
 Transmission line principles ensured that these systems operated cohesively, with minimal interference and optimal performance, even in a multi-device environment.
+![image](https://github.com/user-attachments/assets/abd7b4a4-381f-476d-b816-cd1ddeb16ff6)
+
 
 ## 5. Conclusion: Transmission Lines as the Backbone of Smart Homes
 
